@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  background: darkblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+button {
+    background: white;
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    border: 3px solid yellow;
+}
